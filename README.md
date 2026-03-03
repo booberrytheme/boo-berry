@@ -1,4 +1,4 @@
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/booberrytheme/boo-berry/logos/booberry-logo-circle.png" width="100" alt="Logo"/><br/>
+    <img src="https://github.com/booberrytheme/boo-berry/blob/main/logos/booberry-logo-circle.png?raw=true" width="100" alt="Logo"/><br/>
     boo-berry assets
 </h3>
